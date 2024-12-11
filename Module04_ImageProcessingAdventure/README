@@ -1,0 +1,23 @@
+# Module 04: Image Processing Adventure Quest
+
+## **Module Objectives**
+- Understand image processing concepts and techniques.
+- Learn to apply filters, transformations, and enhancements on images.
+- Explore real-world use cases of image processing.
+
+## **Deliverables**
+- PowerPoint presentation: *A04_ImageProcessingAdventure.pptx* (uploaded in this folder).
+- Late submission explanation and reflections.
+
+## **Learning Outcomes**
+- Mastery of image processing techniques like thresholding, blurring, and edge detection.
+- Application of learned techniques in a simulated "adventure quest" context.
+
+## **Files**
+1. **Presentation:** [A04_ImageProcessingAdventure.pptx](./A04_ImageProcessingAdventure.pptx)
+2. **Related Reference Document:** (Add any supporting documents, if applicable.)
+
+## **References**
+- [Image Processing Overview (YouTube)](https://www.youtube.com/...)
+- Lecture slides from Module 4: *Introduction to Image Processing*.
+- OpenCV documentation: [Image Processing in OpenCV](https://docs.opencv.org/...).
