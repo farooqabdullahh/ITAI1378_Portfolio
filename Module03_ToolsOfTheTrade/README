@@ -1,0 +1,20 @@
+# Module 3: Tools of the Trade
+
+## Objectives
+- Use Jupyter Notebooks for interactive programming.
+- Utilize GitHub for version control and collaborative development.
+
+## Deliverables
+- **L03**: A lab report detailing hands-on experience with Jupyter and GitHub.
+
+## Learning Outcomes
+- Setting up Jupyter Notebooks for data science workflows.
+- Using GitHub effectively for project collaboration.
+
+## Files
+- **L03_LabJupyterGitHub.docx**: Lab report for Jupyter and GitHub integration.
+- **GitHub_Tutorial.pptx**: PowerPoint explaining GitHub basics.
+
+## References
+- [AWS Intro to Jupyter Notebook](./References/AWS_Jupyter_Intro.pdf)
+- [GitHub Resources](./References/GitHub_Resources.pdf)
