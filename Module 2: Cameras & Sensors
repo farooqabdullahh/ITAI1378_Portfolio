@@ -1,0 +1,20 @@
+# Module 2: Cameras & Sensors
+
+## Objectives
+- Learn about the role of cameras and sensors in computer vision.
+- Understand the differences between CCD and CMOS sensors.
+
+## Deliverables
+- **Presentation**: Cameras and Sensors for Computer Vision.
+
+## Learning Outcomes
+- How cameras like stereo cameras enhance 3D vision.
+- Sensor technology and its application in real-time systems.
+
+## Files
+- **ITAI1378_CamerasSensors.pptx**: Presentation covering camera and sensor technologies.
+
+## References
+- [Photodiode and CCD and CMOS Image Sensors](./References/CCD_CMOS_ImageSensors.pdf)
+- [Fuji Stereo Camera Overview](./References/Fuji_Stereo_Camera.pdf)
+
